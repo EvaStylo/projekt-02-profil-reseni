@@ -1,1 +1,1 @@
-# projekt-02-profil-reseni
+# Řešení projektu č. 2
